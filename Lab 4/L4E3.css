@@ -1,0 +1,26 @@
+body {
+  background-color:white;
+}
+
+.box1 {
+  background-color: green;
+  margin: 5px 0px 10px 0px;
+}
+
+.box{
+    margin: 0px 10px 25px 10px;
+    border: dotted black 4px;
+    padding: 0px 0px 20px 10px;
+}
+
+.first{
+  color:red;
+}
+
+.second{
+  color:darkgreen;
+}
+
+.purple{
+  color: purple;
+}

@@ -1,0 +1,41 @@
+body {
+  background-color:white;
+}
+
+.box{
+    margin: 5px 5px 5px 5px;
+    border: dotted purple 2px;
+    padding: 20% 10px 10px 10px
+}
+
+.center{
+  text-align: center;
+}
+
+.text{
+  color: green;
+  text-align: center;
+  font-size: 10px
+}
+
+.more{
+  color:orange;
+  font-size: 25px;
+}
+
+.redup{
+  color:red;
+  vertical-align:super;
+
+}
+
+.purple{
+  color:purple;
+  font-size: 5px;
+  text-align: right;
+}
+
+.yellow{
+  font-style: italic;
+  color:yellow;
+}

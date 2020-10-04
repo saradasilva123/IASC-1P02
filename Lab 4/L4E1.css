@@ -1,0 +1,22 @@
+body {
+  background-color:blue;
+}
+
+.box{
+    margin: 10% 10% 50% 10%;
+    border: solid black 3px;
+    padding: 10px 10px 0px 0px
+}
+
+.border{
+    margin: 10px 10px 15px 10px;
+    border: dashed green 2px;
+    padding: 5px 5px 5px 5px;
+    font-family:arial;
+    color:magenta;
+}
+
+.pic{
+  border: dashed pink 2px;
+  padding: 20px 20px 20px 20px
+}
