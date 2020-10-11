@@ -13,6 +13,14 @@ body{
   padding-left:200px;
 
   background-color: green;
+
+  outline-style: solid;
+  outline-color: #FFFFFF;
+  outline-width: 10px;
+
+
+
+
 }
 
 #blue{
