@@ -1,0 +1,58 @@
+body {
+  background-color:lightyellow;
+}
+
+.color{
+  color:red;
+}
+
+.size{
+  font-size: 20px;
+}
+
+.font{
+  font-family: sans-serif;
+}
+
+.capitals{
+  text-transform: uppercase;
+}
+
+.fixed{
+  color: lightgrey;
+  position:fixed;
+  font-weight: lighter;
+}
+
+.box{
+
+  margin: 0px 10px 25px 10px;
+  border: dotted black 4px;
+  padding: 10px 0px 20px 10px;
+  background-color: lightgreen;
+  position:relative;
+  width:200px;
+  height:150px;
+  float:right;
+}
+
+.box2{
+  position: absolute;
+  top: 400px;
+  right: 10px;
+  width: 200px;
+  height: 100px;
+  margin: 0px 10px 25px 10px;
+  border: dashed;
+  padding: 10px 0px 20px 10px;
+  background-color: lightpink;
+}
+
+h1, h2, h3, h4 {
+  color: darkblue;
+}
+
+.color li{
+  text-decoration: underline;
+  color:purple;
+}
